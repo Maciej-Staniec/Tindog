@@ -1,2 +1,2 @@
 # Tindog
-Practice Bootstrap v5 fundamentals
+Learnt Bootstrap v5 fundamentals.
