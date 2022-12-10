@@ -1,2 +1,2 @@
 # Tindog
-Learnt Bootstrap v5 fundamentals.
+Learnt Bootstrap v5 fundamentals and a bit of intermediate CSS.
